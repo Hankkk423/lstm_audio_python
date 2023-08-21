@@ -1,0 +1,8 @@
+# python=3.11
+pandas
+librosa
+seaborn
+matplotlib
+sciki-learn
+tensorflow
+soundfile
